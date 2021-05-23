@@ -8,16 +8,27 @@ Fast & Free QR-Code / Barcode Scanner & Generator App - BitScan App. QR & Barcod
 
 Features:
 *Safe & easy-to-use scanner app
+
 *Instant Share
+
 *Dark Mode Available
+
 *Available in 3 languages : English , हिन्दी , मराठी
+
 *Simple & Fast QR / Barcode Generator
+
 *Generated QR / Barcodes Saves in Gallery
+
 *Instant scan
+
 *Privacy safe, only camera & storage permission required
+
 *Scan history saved
+
 *Auto zoom
+
 *No internet connection required
+
 
 BitScan App is Developed By BitGanga Services.
 Thank you for Downloading BitScan App.
