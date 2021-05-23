@@ -1,0 +1,1 @@
+# Free-QR-Barcode-Scanner-Generator---BitScan-App
